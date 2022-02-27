@@ -10,3 +10,4 @@ def model2():
 def model3():
     print("model3 is ready for deployment")
 
+print("model 2 is best")
